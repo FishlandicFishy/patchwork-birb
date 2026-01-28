@@ -94,7 +94,7 @@ A visualisation is as follows:
 ```mermaid
 flowchart TD
     C{Today's date}
-    C -->|2 or 22 February| D[2e22 β-points]
+    C -->|2 or 22 February and NOT 2/2/2022| D[2e22 β-points]
     C -->|2/2/2022| E[ee222 β-points]
     C -->|Other dates| F[22 α-points]
 ```
