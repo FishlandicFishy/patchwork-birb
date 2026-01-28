@@ -98,3 +98,61 @@ flowchart TD
     C -->|2/2/2022| E[ee222 β-points]
     C -->|Other dates| F[22 α-points]
 ```
+
+### 3c×6: I'm In My Detective Era Now
+* Choose a player and ask if their card is of a specific number.
+* If their card is the number, the questioned player dies.
+* If their card is not the number, nothing happens.
+
+### 4c×1: They Say This Isn’t Balanced, but I Don't Care
+* Instantly get a "你是冠軍" card.
+* Gain (`d6` × 24) γ-points.
+
+### 5c×2: The Negator from the (H)alting Problem Videos
+* Negates *all* effects on you for the entire round, both positive and negative.
+
+### 6c×1: Snap Back to Reality
+* Votekick yourself (die).
+
+### 7c×(players-1): Polite *Ploice* Officer
+1. A random animal card (chicken, cow, sheep, pig, owl, or ant) appears on the deck.
+2. You must name the animal. The name must be absurdly long, contain at least two languages, and have no upper limit.
+ * *Example (bare minimum):* `往羅湖的列車即將到達。前往罗湖的列车即將到达。The train to Lo Wu is arriving.`
+3. Additional animal cards are added to the deck.
+4. When two identical animal cards appear, players race to slap both while shouting its full name.
+ * Winner receives **18,446,744,073,709,551,616 (2^64) γ-points**.
+ * If no one remembers the name, shuffle the animal cards and restart.
+
+### 8c×2: Discipline Teacher
+* May be partially disabled if deemed offensive/unethical. If disabled, gain **500 γ-points** immediately.
+* You gain the right to scold the next player for **1 minute** for the worst possible reasons.
+* Gain 10 γ-points per utterance of: “Eyes on me,” “Attention please,” or “Absolute silence.”
+
+### 9c×1: The Jan soweli from idk some random tabletop game
+* Roll a `d6`:
+  * You gain 1 γ-point.
+  * All other players lose the die result in γ-points.
+  * Effect is negated for any player holding a *The jan soweli from Schatz der Dr\*chen* card.
+
+### 10c×2: [smonk](https://surrealmemes.fandom.com/wiki/Smonk)
+* Both adjacent players lose 1 γ-point.
+
+### 11c×2: [the snow is snowier than before](https://www.reddit.com/r/MinecraftMemes/comments/d9maz9/)
+* The player to your left loses 1 γ-point.
+
+### 12c×2: [lave](https://bugs.mojang.com/browse/MC-257104)
+* The player to your right loses 1 γ-point.
+
+### 13c×5: Iran out of ideas
+* You gain 1 γ-point.
+
+## Ability Cards (a.k.a. Abaty Cards)
+
+### 1a: Hurricane
+* Playable at any time.
+* Resets one point hierarchy of any player (default: yourself if not chosen within 5 seconds).
+* User skips **two rounds**.
+
+### 1a⁻¹: Summer monsoons arrive late
+* Playable if *Hurricane* is used against you.
+* Negates *Hurricane*.
