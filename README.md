@@ -1,2 +1,6 @@
-# patchwork-birb
-a.k.a. 布幟天上公雀; a cringy tabletop game concept not to be taken seriously
+# `patchworkBirb`
+## 布織天上公雀
+
+We at SUGMA Degeneracy Solutions present `patchworkBirb`, an unoriginal tabletop game concept that is intentionally over-complicated and confusing. Game ideas have been "permanently borrowed" from numerous sources.
+
+Check <patchwork-birb.md> for documentation.
