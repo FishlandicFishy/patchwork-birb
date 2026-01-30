@@ -401,3 +401,171 @@ flowchart TD
 ### 1s: The Entire Bakery
 * Given if today is your birthday.
 * Gain 100 γ-points at game start.
+
+---
+
+## Part II: Welcome to Game Theory
+The show that gets facts wrong about YOUR favourite conlang. Wait, wrong show.
+
+### Setting
+* Players divided into three groups (A, B, C) or two groups (A, B) depending on divisibility by three. Each group starts with 10 points.
+* If a group reaches 0 points, 15% of its members die (round up).
+
+### Rounds 1–3
+* Each group privately chooses 1 or 0.
+* If another group learns your choice, all players die.
+* After 30-second discussion, groups reveal choice.
+
+If amount of players is divisible by 3:
+
+| Scenario (甲,乙,丙) | Result | Δ Points (甲,乙,丙) |
+|-------------------|--------|-------------------|
+| 1,0,0             | 甲 gives 1 point to each other group | –2, +1, +1 |
+| 1,1,0             | Groups Z and 丙 give 2 points to other | –2, –2, +4 |
+| 1,1,1             | Each group gains 1 point | +1, +1, +1 |
+| 0,0,0             | Each group loses 2 points | –2, –2, –2 |
+
+Else:
+
+| Scenario (甲,乙) | Δ Points (甲,乙) |
+|-------------------|-------------------|
+| 1,0             | +2, -8 |
+| 1,1             | –2, –2 |
+| 0,0             | +1, +1 |
+
+### Rounds 4–5
+* Same as above, but each group sends a representative to a separate discussion room.
+
+---
+
+## Part III: The Bigger Picture™
+*If you die here, you die in the entire game.*
+
+### Setting
+Freely walk in this area:
+
+### Ability Points
+* Start with 18 ability points, distributable among four color-coded categories: A, B, C, D.
+
+### Goals
+| Goal | Description |
+|------|-------------|
+| ★ why | Do every single Work. |
+| ★ real I | Get 10 A, 15 B, 5 C, 15 D. |
+| ★ real II | Get 20 A, 10 B, 5 C, 8 D. |
+| ★ smart | Reach Level 4 in the first *The Bigger Picture* round. |
+| ★ Waist of Time | Get 25 A points. |
+| ★ We work to earn the right to work | Do the same Work 5 times. |
+| ★ monet I | Get 10 C points. |
+| ★ monet II | Get 40 C points. |
+
+★ = harder, ☆ = easier.
+
+### Diabetes Land
+* Optional after achieving a goal.
+* Awarded sugar (mono-/disaccharides) based on goal difficulty.
+* No responsibility for side effects (e.g., OBCD, diabetes).
+
+### Leveling System and Exams
+* Start at random level 1–3 (max 4).
+* To level up, pass a “meaningless, pointless, and very hard” exam (10 minutes, 7/10 correct).
+
+| Exam | Lv. | Req. (A,B,C,D) | Result (ΔA,ΔB,ΔC,ΔD) |
+|------|-----|----------------|----------------------|
+| 1→2  | 1   | 3,3,1,2        | –3,–3,–1,–2 |
+| 2→3  | 2   | 5,4,2,3        | –5,–4,–2,–3 |
+| 3→4  | 3   | 8,5,3,5        | –8,–5,–3,–5 |
+
+### Special Events
+* Occur randomly (5–10 minute intervals), affect all players.
+
+| Event | Result (ΔA,ΔB,ΔC,ΔD) |
+|-------|----------------------|
+| Economic Growth | 0, 3, 0, 5 |
+| David | –19, –2, –5, –5 |
+| global tsunami | 0, 0, 0, –20 |
+
+### Fate Cards
+* 100% optional gambling.
+* Draw one card:
+
+| Card | Result (ΔA,ΔB,ΔC,ΔD) | Additionally |
+|------|----------------------|--------------|
+| RNG  | `n_a, n_b, n_c, n_d` | Admit gambling publicly; gain 1 Gambling Point. |
+| die  | –∞, –∞, –∞, –∞ | Write your own obituary, quit game, buy a coffin, live in it forever. |
+
+`n_a … n_d` are random integers –50 ≤ n ≤ 50.
+
+### Gambling Points
+| Item | Points | Stock |
+|------|--------|-------|
+| expired chocolate (t) | 5 | ∞ |
+| Ono BTS dance card | 10 | 1 (re-stocked after use) |
+| “Doth Not Walk For 15 Minutes” card | 15 | 1 (re-stocked after use) |
+| “Name Five Stations from Any Metro Line” card | 20 | 1 (re-stocked after use) |
+
+* If a card’s requirement is not met, the target dies.
+
+### Work and Non-Work
+*Work list (abridged):*
+
+| Work | Description | Lv. | Req. (A,B,C,D) | Result (ΔA,ΔB,ΔC,ΔD) |
+|------|-------------|-----|----------------|----------------------|
+| Janitor | pick up rubbish | 1 | 0,0,1,0 | 0,–1,1,? |
+| mailman | deliver gifts | 2 | 2,1,0,2 | 0,–1,2,? |
+| programmer | do Sintense math | 3 | 3,1,0,2 | 0,–1,5,? |
+| surgeon | be a surgeon | 4 | 6,3,0,3 | –3,2,–3,10 |
+
+*Non-work:*
+
+| Misc. | Req. (A,B,C,D) | Result (ΔA,ΔB,ΔC,ΔD) |
+|-------|----------------|----------------------|
+| medical | 0,0,0,5 | 0,0,1,–5 |
+
+### Examples of “Intense Math”
+*Equations courtesy of [enjck.com/num2math](https://enjck.com/num2math/) & blackpenredpen.*
+
+1.  
+\[
+\lim_{x\to 0}x\to 341\frac{x^2-16}{x-4} \quad \lim_{x\to 0}\frac{-\ln(1+5(e^{-x}-1))}{x}
+\]
+Answer: 69
+
+2.  
+\[
+\left(\lim_{x\to0}\frac{e^{2x}-1}{x}-(-27e^x(\cos^2x+\sin^2x))\right)
+\left(-3e^x+\lim_{x\to0}\frac{-\ln(1+27(e^{-x}-1))}{x}+\lim_{x\to0}\frac{e^{2x}-1}{x}
+-\lim_{x\to0}\frac{x^2-49}{x+7}+\lim_{x\to0}\frac{x^2-100}{x-10}\right)
+\]
+Answer: 69
+
+3.  
+\[
+\left(\lim_{x\to0}\frac{e^{7x}-1}{x}(\cos^2x+\sin^2x)\right)^3
++ \left(\lim_{x\to\infty}\frac{8x^4+8x^2+5x}{x^4-7x}\right)^2 - 13e^{\pi i}
+\]
+Answer: 420
+
+4.  
+\[
+\left(\sum_{k=0}^{\infty}\left(\frac{6}{7}\right)^k\right)^3
++ \left(\left(\lim_{x\to\infty}\frac{36x^3-3x^2+11x}{4x^3+10x^2+2x}
+-(\cos^2x+\sin^2x)\right)^2 + \lim_{x\to0}\frac{e^{13x}-1}{x}\right)
+\]
+Answer: 420
+
+5. The Acoustic Equation of 2024 (reward multiplied by result):
+\[
+\left(\int_{-\infty}^{\infty}\sum_{n=0}^{\infty}
+\left(\frac{(-1)^n}{n+1}\right)
+\left(\lim_{t\to\infty}\left(1+\frac1{e^t}\right)e^t\right)^{\frac{d}{dx}}
+\left(\frac{x^2}{\sin(x^2)}+\cos(x^2)\right)^2\right)dx
+\]
+Answer: 4
+
+---
+
+## Part IV: Obvious Furbait
+* After each Part III round, ask a fursuiter the time.
+* If the time is exactly 12:00 a.m. or p.m., all players must run.
+* The slowest runner dies.
