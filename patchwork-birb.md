@@ -444,7 +444,7 @@ Else:
 ### Setting
 Freely walk in this area:
 
-<img width="360" height="485" alt="image" src="https://github.com/user-attachments/assets/fee2ea65-0b39-4469-b2a5-ebddd4886a31" />
+<img width="360" height="485" alt="Jobs: 2/3, Mailman, Janitor, Find, Gift, Airplane, 王理工大學, programmer. graphic design, Carprark man, surgeon. Other areas: Exam and diabetes land, as well as the Main Game Area. There is no exit." src="https://github.com/user-attachments/assets/ab381634-658e-4e9f-821e-9f4329dc951a" />
 
 ### Ability Points
 * Start with 18 ability points, distributable among four color-coded categories: A, B, C, D.
