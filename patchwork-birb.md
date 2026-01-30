@@ -484,7 +484,7 @@ Freely walk in this area:
 | Event | Result (ΔA,ΔB,ΔC,ΔD) |
 |-------|----------------------|
 | Economic Growth | 0, 3, 0, 5 |
-| David | –19, –2, –5, –5 |
+| David-19 | –19, –2, –5, –5 |
 | global tsunami | 0, 0, 0, –20 |
 
 ### Fate Cards
@@ -515,7 +515,7 @@ Freely walk in this area:
 |------|-------------|-----|----------------|----------------------|
 | Janitor | pick up rubbish | 1 | 0,0,1,0 | 0,–1,1,? |
 | mailman | deliver gifts | 2 | 2,1,0,2 | 0,–1,2,? |
-| programmer | do Sintense math | 3 | 3,1,0,2 | 0,–1,5,? |
+| programmer | do intense math | 3 | 3,1,0,2 | 0,–1,5,? |
 | surgeon | be a surgeon | 4 | 6,3,0,3 | –3,2,–3,10 |
 
 *Non-work:*
@@ -523,47 +523,6 @@ Freely walk in this area:
 | Misc. | Req. (A,B,C,D) | Result (ΔA,ΔB,ΔC,ΔD) |
 |-------|----------------|----------------------|
 | medical | 0,0,0,5 | 0,0,1,–5 |
-
-### Examples of “Intense Math”
-*Equations courtesy of [enjck.com/num2math](https://enjck.com/num2math/) & blackpenredpen.*
-
-1.  
-\[
-\lim_{x\to 0}x\to 341\frac{x^2-16}{x-4} \quad \lim_{x\to 0}\frac{-\ln(1+5(e^{-x}-1))}{x}
-\]
-Answer: 69
-
-2.  
-\[
-\left(\lim_{x\to0}\frac{e^{2x}-1}{x}-(-27e^x(\cos^2x+\sin^2x))\right)
-\left(-3e^x+\lim_{x\to0}\frac{-\ln(1+27(e^{-x}-1))}{x}+\lim_{x\to0}\frac{e^{2x}-1}{x}
--\lim_{x\to0}\frac{x^2-49}{x+7}+\lim_{x\to0}\frac{x^2-100}{x-10}\right)
-\]
-Answer: 69
-
-3.  
-\[
-\left(\lim_{x\to0}\frac{e^{7x}-1}{x}(\cos^2x+\sin^2x)\right)^3
-+ \left(\lim_{x\to\infty}\frac{8x^4+8x^2+5x}{x^4-7x}\right)^2 - 13e^{\pi i}
-\]
-Answer: 420
-
-4.  
-\[
-\left(\sum_{k=0}^{\infty}\left(\frac{6}{7}\right)^k\right)^3
-+ \left(\left(\lim_{x\to\infty}\frac{36x^3-3x^2+11x}{4x^3+10x^2+2x}
--(\cos^2x+\sin^2x)\right)^2 + \lim_{x\to0}\frac{e^{13x}-1}{x}\right)
-\]
-Answer: 420
-
-5. The Acoustic Equation of 2024 (reward multiplied by result):
-\[
-\left(\int_{-\infty}^{\infty}\sum_{n=0}^{\infty}
-\left(\frac{(-1)^n}{n+1}\right)
-\left(\lim_{t\to\infty}\left(1+\frac1{e^t}\right)e^t\right)^{\frac{d}{dx}}
-\left(\frac{x^2}{\sin(x^2)}+\cos(x^2)\right)^2\right)dx
-\]
-Answer: 4
 
 ---
 
