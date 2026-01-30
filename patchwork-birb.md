@@ -443,6 +443,7 @@ Else:
 
 ### Setting
 Freely walk in this area:
+
 <img width="360" height="485" alt="image" src="https://github.com/user-attachments/assets/fee2ea65-0b39-4469-b2a5-ebddd4886a31" />
 
 ### Ability Points
