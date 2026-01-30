@@ -128,7 +128,7 @@ flowchart TD
 * You gain the right to scold the next player for **1 minute** for the worst possible reasons.
 * Gain 10 γ-points per utterance of: “Eyes on me,” “Attention please,” or “Absolute silence.”
 
-### 9c×1: The Jan soweli from idk some random tabletop game
+### 9c×1: The *jan soweli* from idk some random tabletop game
 * Roll a `d6`:
   * You gain 1 γ-point.
   * All other players lose the die result in γ-points.
@@ -156,3 +156,248 @@ flowchart TD
 ### 1a⁻¹: Summer monsoons arrive late
 * Playable if *Hurricane* is used against you.
 * Negates *Hurricane*.
+
+### 2a: Pray for Peace and Prosperity
+* Playable at any time.
+* All your stats are ×10.
+* Side effect: Other players may use the 🤓 emoji on you; you lose 1 γ-point per use.
+
+### 3a: Rabbit
+* Playable at any time.
+* A biblically accurate rabbit Usain Bolts toward a player of your choice, nearly killing them.
+* Target is hospitalized (skips) for two rounds.
+
+### 3a⁻¹: Usain Bolt
+* Playable if *Rabbit* is used against you.
+* Negates *Rabbit*.
+
+### 4a: Jumping Expert
+* Playable at any time.
+* Choose a point hierarchy. It becomes equal to the next higher hierarchy.
+* If none is higher, it becomes equal to the next lower.
+
+### 4a⁻¹: Don’t Touch the Hurdles
+* Playable if *Jumping Expert* is used on you.
+* Negates *Jumping Expert*.
+
+### 5a: Ono Reverse Card
+* Playable at any time, or when another *Ono Reverse Card* is played.
+* A replica of the *UNO Reverse Card*.
+
+### 6a: Ono Skip All Card
+* Playable at any time, or when another *Ono Skip All Card* is played.
+* A replica of the *UNO Flip Skip All Card*.
+
+### 7a: Ono BTS Card
+* Playable at any time, or when another *Ono BTS Card* targets you (negates effect).
+* Forces next player to perform a BTS dance for two rounds.
+* If they fail, they lose 75% of all stats.
+
+### 8a: Black Dice
+* Must be played once obtained.
+* Requires *Black Knife (from Deltarune)* to also be played.
+* Kill one adjacent player. Negated if target has a fursona with antlers.
+* If both adjacent players are dead, you die.
+
+### 9a: 收你八折
+* Playable when a negative effect targets you.
+* Reduces the negative effect by 20%.
+
+### 10a: 收你五折
+* Playable when a negative effect targets you.
+* Reduces the negative effect by 50%.
+
+### 11a–20a: +n Cards (1 ≤ n ≤ 10)
+* Playable at any time.
+* Add `n` to any one hierarchy.
+
+### 21a: ×2 Card
+* Playable at any time.
+* Doubles any one hierarchy.
+
+### 22a: ^2 Card
+* Playable at any time.
+* Squares any one hierarchy.
+
+### 23a: ^^² Card
+* Playable at any time.
+* Tetrates any one hierarchy by 2.
+
+### 24a: –5 Card
+* Must be played once obtained.
+* Deducts 5 points from your highest hierarchy.
+
+### 25a: /2 Card
+* Must be played once obtained.
+* The IRS chooses which of your hierarchies to halve.
+
+### 26a: √x Card
+* Must be played once obtained.
+* Square-roots one hierarchy.
+
+### 27a: √√x Card
+* Must be played once obtained.
+* Fourth-roots one hierarchy.
+
+### 28a: The *jan soweli* from Schatz der Dr\*chen
+* Must be played once obtained (“a life-changing experience”).
+* Converts you into a *jan soweli*.
+* Resets all point hierarchies except one.
+* Thereafter remains in inventory, granting 5 γ-points at game end.
+
+### 29a: Cat
+* Must be played once obtained.
+* Gain 15 γ-points, then card remains in inventory.
+* Cannot coexist with *Dog*; if both are held, both are returned and all hierarchies reset (unless you hold *The jan soweli…* card (28a)).
+
+### 30a: Dog
+* Must be played once obtained.
+* Player must quote “dog” (cringe warning).
+* Gain 15 γ-points, then card remains in inventory.
+* Cannot coexist with *Cat*; if both are held, both are returned and all hierarchies reset (unless you hold *The jan soweli…* card (28a)).
+
+### 31a: Wolf
+* Remains in inventory once obtained.
+* Continuously removes any *Dog* from your inventory (source: my dumb classmates’ logic).
+* Exception: Negated if you hold *The jan soweli…* card (28a).
+
+### 32a: Ball Pen
+* Playable at any time.
+* Adjacent player multiplies all stats by 20%.
+
+### 33a: Empty Room
+* Does nothing.
+
+### 34a: Vacuum
+* …
+
+### 35a: Sofa
+* Must be used once obtained.
+* Skip one round, then gain 50 γ-points.
+
+### 36a: Store
+* Must be used once obtained.
+* Skip 5 rounds, then gain 100 γ-points per round for 10 rounds.
+
+### 37a: Scavenger
+* Playable at any time.
+* Choose any of the first 10 cards from *ma pi jaki anpa* (excluding *Scavenger*).
+
+### 37a⁻¹: Trash
+* Playable at any time.
+* If a *Scavenger* user draws this, their round ends and they must keep it.
+* Otherwise does nothing.
+
+### 38a: Stand Up. Let’s Have a Greeting
+* Playable at any time.
+* All players must stand up.
+* The slowest player transfers 75% of every stat to the fastest.
+* Measured with ≥2048 FPS camera.
+
+### 39a: *jan soweli* who is only 105 cm tall and can only say “gerriver”
+* Playable at any time.
+* All players who know the 105 cm “ni”-saying comic lose all stats.
+* Negated if player owns *The jan soweli…* card (28a).
+* Does not work if the player has hailed anything (including a taxi) in the past month.
+
+### 40a: Lion
+* Playable at any time.
+* The next player dies and you receive all their stats.
+* Negated if target owns *The jan soweli…* card (28a).
+
+### 41a: Grass
+* Playable at any time.
+* Player with most Discord/ activity time loses 50% of all stats.
+* If no one uses Discord, everyone loses 1% of all stats.
+
+### 41a⁻¹: Please Take a Shower Immediately
+* Playable if *Grass* targets you.
+* Negates *Grass*.
+* Stats of the *Grass* player are transferred to you and doubled by the bank.
+
+### 42a: Abaties of Characters
+* Playable at any time.
+* Next player dies “because the card misspelt Abilities and forgot to use Grammarly.”
+
+### 42a⁻¹: Um Actually
+* Playable if *Abaties of Characters* targets you.
+* Negates *Abaties of Characters*.
+* Side effect: Other players may use the 🤓 emoji on you; you lose 1 γ-point per use.
+
+### 43a: 💔❤️‍🩹
+* Playable at any time if you are under a negative effect.
+* Negates that effect.
+
+### 44a: ❤️‍🩹💔
+* Playable at any time.
+* Negates a player’s positive effect.
+* If no player has a positive effect, you die.
+
+### 45a: Denied ❌
+* Playable at any time.
+* Denies usage of any one card until an *Approved* card lifts the denial.
+* Forbidden to pick *Approved* as the denied card.
+
+### 45a⁻¹: Approved ✅
+* Playable at any time while a *Denied* card is active.
+* Lifts the denial of one *Denied* card.
+
+### 46a: generic swer wolf character
+* Playable at any time.
+* Choose a player. That player dies when you die.
+
+### 47a: 被劣
+* Playable at any time.
+* All cards move one position to the right.
+
+### 48a: Kindness
+* Playable on your round.
+* You are so kind you wanted your friend to have equal opportunities as you.
+* Target player must discard their entire hand and redraw the same number of cards.
+* Remember Michael Larry Pete Cloppington's quote: "Friendship is magic, the magic of starting over."
+
+### 49a: Союз Нерушимый Республик Свободных
+* Playable on your round.
+* Privyet comrade, remember the class struggle.
+* The total sum of γ-points among all living players is calculated, then divided evenly. Each player receives their share, rounded down to the nearest integer. Any remainder points (the "proceeds less than 1 point") are given to the State (removed from the game).
+* "From each according to his ability, to each according to his need for integers."
+
+### 50a: Trade Secret
+* Playable on your round.
+* Everyone else's face-down Trap Cards are immediately flipped face-up and remain visible to all players for the rest of the game.
+
+### 51a: DRM
+* Playable whenever any player uses the Scavenger card.
+* The Scavenger uses DRM-ridden software rendered unusable.
+* The effects of the Scavenger card are completely negated. The user of Scavenger gains nothing, and their turn ends.
+
+---
+
+## Trap Cards
+* If drawn, flip it face-up on the table and draw another card.
+* Active until someone matches its description (except you).
+* Only you may flip it.
+* May be disabled for ethical reasons.
+
+### 1t: Prosecuted for Damaging Property
+* If anyone bangs the table, they lose 50 γ-points.
+* Others may pretend to be offended (Twitter-style argument); target loses 1 γ-point per “outrage.”
+
+### 2t: What’s the Time?
+* If anyone checks a clock/watch, they lose 50 γ-points.
+
+### 3t: 🤓
+* If anyone wears glasses, they lose 1 γ-point.
+* If anyone confuses this with the *i-42a* card, they die.
+
+### 4t: You may not sleep now, there are monsters nearby:
+* If anyone sets down cards or rests/sleeps, they lose 50 γ-points.
+
+---
+
+## Special Cards
+* Cannot be drawn; given at game start to qualifying players.
+
+### 1s: The Entire Bakery
+* Given if today is your birthday.
+* Gain 100 γ-points at game start.
