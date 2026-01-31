@@ -539,7 +539,7 @@ Freely walk in this area:
 | janitor | pick up rubbish | 1 | 0,0,1,0 | 0,0,-1,1 |
 | gift | create gifts | 1 | 0,0,0,0 | 6,3,1,0 |
 | mailman | deliver gifts | 1 | 2,2,1,0 | 2,0,-1,2 |
-| Carprark man | tidy up toy cars, especially if you are Holy Number 6 | 1 | 1,1,2,0 | 0,0,-1,2 |
+| Carprark man <img width="125" height="78" alt="Shroff office at carprark" src="https://github.com/user-attachments/assets/83f5fba8-08e8-412a-9bd4-f79363b1c834" /> | tidy up toy cars, especially if you are Holy Number 6 | 1 | 1,1,2,0 | 0,0,-1,2 |
 | find | find waldo | 1 | 0,0,0,0 | 6,0,1,0 |
 | 2/3 | [this](https://en.m.wikipedia.org/wiki/Three-legged_race) | 1 | 0,0,2,5 | 2,6,-2,-5 |
 | [⿰王理工大學](https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/1060488/%E7%90%86%E5%A4%A7%E5%AE%A3%E5%82%B3%E6%A9%AB%E5%B9%85%E8%98%87%E8%BB%BE%E5%90%8D%E5%8F%A5-%E5%8D%83%E9%87%8C%E5%85%B1%E5%AC%8B%E5%A8%9F-%E8%AE%8A-%E5%8D%83%E8%A3%A1-%E6%83%B9%E7%86%B1%E8%AD%B0%E5%BE%8C%E5%B7%B2%E6%8B%86%E9%99%A4) | find typos | 2 | 6,1,1,0 | 2,0,-1,3 |
