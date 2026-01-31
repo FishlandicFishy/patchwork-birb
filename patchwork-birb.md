@@ -58,7 +58,7 @@ The winner is deduced by the method below. This also applies to dead players.
 4. Rock-paper-scissor out the issue if α-points are equivalent,
    use the best-two-of-three basis to ensure maximum randomness
 5. If two or more people still tie, sort it out by the one who has a higher age (by birthday, not by fixed age)
-   (correct to the nearest Planck time, 5.39 × 10−44 s)
+   (correct to the nearest Planck time, 5.39 × 10^(−44) s)
 7. If two or more people are the same age, sort it out by the one who had most recently drank water
 8. If two or more people had drank water at the same time, use RNG
 
@@ -371,6 +371,29 @@ flowchart TD
 * The Scavenger uses DRM-ridden software rendered unusable.
 * The effects of the Scavenger card are completely negated. The user of Scavenger gains nothing, and their turn ends.
 
+### 52a: The Inquisition
+* Nobody expects the patchworkBirb inquisition. Maybe.
+* Playable on your round.
+* You must declare one of two categories: "Stupidly Easy" or "How Do You Even Know This".
+* A question from the chosen category is then selected at random from a predetermined list.
+* All players present, including you and those whose rounds are skipped, must answer the question within 30 seconds.
+* Any player who answers correctly gains 5 γ-points. Any player who answers incorrectly loses 10 γ-points. Any player who submits a blank answer, an illegible answer, or the word "gerriver" loses 15 γ-points.
+
+#### 52a Sample Questions
+##### Stupidly Easy
+* What is the sum of the multiplicative identity and the only even prime number?
+* To avoid being scammed, should you take the advice of a scammer?
+* What is the powerhouse of the cell?
+* For all real numbers x, is x^2 = x^2?
+
+##### How Do You Even Know This
+* Who was in Paris? Ensure your answer is inoffensive. Do not use the "clean" version as your answer.
+* Is P = NP?
+* Prove or disprove the Riemann hypothesis.
+* Come up with Ramanujan's approximation for pi using his methods. You are given a bed and a time limit of 1 hour. For this question, all trap cards are temporary null and void.
+* Use ISO 843 transliteration on the full lyrics of "Hymn to Liberty" (the national anthem of Greece), disregarding spaces. Convert the result into Unicode codepoints (all in denary, assuming UTF+8). What is the sum of all the codepoints?
+* Who farted at exactly 3:01.22 AM GMT on 9 August 1945?
+
 ---
 
 ## Trap Cards
@@ -444,7 +467,7 @@ Else:
 ### Setting
 Freely walk in this area:
 
-<img width="360" height="485" alt="Jobs: 2/3, Mailman, Janitor, Find, Gift, Airplane, 王理工大學, programmer. graphic design, Carprark man, surgeon. Other areas: Exam and diabetes land, as well as the Main Game Area. There is no exit." src="https://github.com/user-attachments/assets/ab381634-658e-4e9f-821e-9f4329dc951a" />
+<img width="360" height="485" alt="Jobs: 2/3, Mailman, Janitor, Find, Gift, Airplane, ⿰王理工大學, programmer. graphic design, Carprark man, surgeon. Other areas: Exam and diabetes land, as well as the Main Game Area. There is no exit." src="https://github.com/user-attachments/assets/ab381634-658e-4e9f-821e-9f4329dc951a" />
 
 ### Ability Points
 * Start with 18 ability points, distributable among four color-coded categories: A, B, C, D.
@@ -508,17 +531,24 @@ Freely walk in this area:
 
 * If a card’s requirement is not met, the target dies.
 
-### Work and Non-Work
-*Work list (abridged):*
+### [Wörk](https://knowyourmeme.com/photos/1092543-polandball) and Non-Wörk
+*Wörk list:*
 
-| Work | Description | Lv. | Req. (A,B,C,D) | Result (ΔA,ΔB,ΔC,ΔD) |
+| Wörk | Description | Lv. | Req. (A,B,C,D) | Result (ΔA,ΔB,ΔC,ΔD) |
 |------|-------------|-----|----------------|----------------------|
-| Janitor | pick up rubbish | 1 | 0,0,1,0 | 0,–1,1,? |
-| mailman | deliver gifts | 2 | 2,1,0,2 | 0,–1,2,? |
-| programmer | do intense math | 3 | 3,1,0,2 | 0,–1,5,? |
-| surgeon | be a surgeon | 4 | 6,3,0,3 | –3,2,–3,10 |
+| janitor | pick up rubbish | 1 | 0,0,1,0 | 0,0,-1,1 |
+| gift | create gifts | 1 | 0,0,0,0 | 6,3,1,0 |
+| mailman | deliver gifts | 1 | 2,2,1,0 | 2,0,-1,2 |
+| Carprark man | tidy up toy cars, especially if you are Holy Number 6 | 1 | 1,1,2,0 | 0,0,-1,2 |
+| find | find waldo | 1 | 0,0,0,0 | 6,0,1,0 |
+| 2/3 | [this](https://en.m.wikipedia.org/wiki/Three-legged_race) | 1 | 0,0,2,5 | 2,6,-2,-5 |
+| [⿰王理工大學](https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/1060488/%E7%90%86%E5%A4%A7%E5%AE%A3%E5%82%B3%E6%A9%AB%E5%B9%85%E8%98%87%E8%BB%BE%E5%90%8D%E5%8F%A5-%E5%8D%83%E9%87%8C%E5%85%B1%E5%AC%8B%E5%A8%9F-%E8%AE%8A-%E5%8D%83%E8%A3%A1-%E6%83%B9%E7%86%B1%E8%AD%B0%E5%BE%8C%E5%B7%B2%E6%8B%86%E9%99%A4) | find typos | 2 | 6,1,1,0 | 2,0,-1,3 |
+| [airplane](https://www.youtube.com/watch?v=S6ff6_beeHY) | jump and stick memos | 2 | 3,0,3,0 | 2,0,-3,5 |
+| [graphic design](https://www.reddit.com/r/DesignPorn/comments/a0fb98/beautiful_example_of_design/) | write your name in calligraphy | 3 | 2,0,1,0 | 1,0,-1,3 |
+| programmer | do intense math | 3 | 3,1,1,0 | 2,0,–1,5 |
+| [surgeon](https://www.youtube.com/watch?v=8byiwOY5XM0) | [be a surgeon](http://youtube.com/watch?v=-ES-5HtpoxU) | 4 | 6,3,0,3 | –3,2,–3,10 |
 
-*Non-work:*
+*Non-wörk:*
 
 | Misc. | Req. (A,B,C,D) | Result (ΔA,ΔB,ΔC,ΔD) |
 |-------|----------------|----------------------|
