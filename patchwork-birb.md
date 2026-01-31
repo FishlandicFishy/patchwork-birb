@@ -574,7 +574,6 @@ Freely walk in this area:
 * *Become a Board Game Designer*, a programme organised by [Capstone Boardgame](https://shop.capstone.hk/)
   * [4c] They Say This Isn’t Balanced, but I Don't Care
   * [7c] Polite *Ploice* Officer
-  * 
   * No further details will be provided since doing so directly leaks my school and my real appearance
 * *Food Chain Kingdom*, a tabletop game designed during the *Become a Board Game Designer* programme
   * [3a] Rabbit
@@ -605,7 +604,7 @@ Freely walk in this area:
   * [2t] What’s the Time?
   * [3t] 🤓
   * [4t] You may not sleep now, there are monsters nearby
-* *Understanding Minorities and Refugees in Hong Kong*, a programme organised by [not this ICE](https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement)
+* *Understanding Minorities and Refugees*, a programme organised by [not this ICE](https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement)
   * Directly inspired gambling points, the "metro station" card, and the melted chocolate
   * No further details will be provided since doing so directly leaks my school and my real appearance
 * >"Administrative Measures" will be taken. You can imagine what that means.
