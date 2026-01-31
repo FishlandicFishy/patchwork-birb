@@ -507,7 +507,7 @@ Freely walk in this area:
 | Event | Result (ΔA,ΔB,ΔC,ΔD) |
 |-------|----------------------|
 | Economic Growth | 0, 3, 0, 5 |
-| David-19 | –19, –2, –5, –5 |
+| [David-19](https://www.reddit.com/r/facepalm/comments/qwth5d/the_david19_situation/) | 2, –5, –5, –5 |
 | global tsunami | 0, 0, 0, –20 |
 
 ### Fate Cards
@@ -516,16 +516,16 @@ Freely walk in this area:
 
 | Card | Result (ΔA,ΔB,ΔC,ΔD) | Additionally |
 |------|----------------------|--------------|
-| RNG  | `n_a, n_b, n_c, n_d` | Admit gambling publicly; gain 1 Gambling Point. |
-| die  | –∞, –∞, –∞, –∞ | Write your own obituary, quit game, buy a coffin, live in it forever. |
+| RNG | *n<sub>a</sub>*, *n<sub>b</sub>*, *n<sub>c</sub>*, *n<sub>d</sub>* | Admit gambling publicly; gain 1 Gambling Point. |
+| die | –∞, –∞, –∞, –∞ | Write your own obituary, quit game, buy a coffin, live in it forever. |
 
 `n_a … n_d` are random integers –50 ≤ n ≤ 50.
 
 ### Gambling Points
 | Item | Points | Stock |
 |------|--------|-------|
-| expired chocolate (t) | 5 | ∞ |
-| Ono BTS dance card | 10 | 1 (re-stocked after use) |
+| expired chocolate (ℓ) | 5 | ∞ |
+| [Ono BTS dance card](https://antifandom.com/matteluno/wiki/Wild_Dancing_Card) | 10 | 1 (re-stocked after use) |
 | “Doth Not Walk For 15 Minutes” card | 15 | 1 (re-stocked after use) |
 | “Name Five Stations from Any Metro Line” card | 20 | 1 (re-stocked after use) |
 
