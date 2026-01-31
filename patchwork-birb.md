@@ -180,7 +180,7 @@ flowchart TD
 * Playable if *Jumping Expert* is used on you.
 * Negates *Jumping Expert*.
 
-### 5a: Ono Reverse Card
+### 5a: [Ono](https://youtube.com/watch?v=sohap152Rcc) Reverse Card
 * Playable at any time, or when another *Ono Reverse Card* is played.
 * A replica of the *UNO Reverse Card*.
 
@@ -188,15 +188,15 @@ flowchart TD
 * Playable at any time, or when another *Ono Skip All Card* is played.
 * A replica of the *UNO Flip Skip All Card*.
 
-### 7a: Ono BTS Card
+### 7a: Ono [BTS Card](https://www.google.com/search?q=uno+bts+card+rule)
 * Playable at any time, or when another *Ono BTS Card* targets you (negates effect).
 * Forces next player to perform a BTS dance for two rounds.
 * If they fail, they lose 75% of all stats.
 
 ### 8a: Black Dice
 * Must be played once obtained.
-* Requires *Black Knife (from Deltarune)* to also be played.
-* Kill one adjacent player. Negated if target has a fursona with antlers.
+* Requires [*Black Knife (from Deltarune)*](https://www.youtube.com/watch?v=B8Us0DZgexw) to also be played.
+* Kill one adjacent player. [Negated if target has a fursona with antlers](https://knowyourmeme.com/memes/asgore-running-over-dess).
 * If both adjacent players are dead, you die.
 
 ### 9a: 收你八折
@@ -252,7 +252,7 @@ flowchart TD
 
 ### 30a: Dog
 * Must be played once obtained.
-* Player must quote “dog” (cringe warning).
+* Player must quote [“dog” (cringe warning)](https://www.youtube.com/watch?v=3NWdCihcOHM).
 * Gain 15 γ-points, then card remains in inventory.
 * Cannot coexist with *Cat*; if both are held, both are returned and all hierarchies reset (unless you hold *The jan soweli…* card (28a)).
 
@@ -294,7 +294,7 @@ flowchart TD
 * The slowest player transfers 75% of every stat to the fastest.
 * Measured with ≥2048 FPS camera.
 
-### 39a: *jan soweli* who is only 105 cm tall and can only say “gerriver”
+### 39a: *jan soweli* who is only 105 cm tall and can only say [“ger river”](https://en.wikipedia.org/wiki/Niger_River)
 * Playable at any time.
 * All players who know the 105 cm “ni”-saying comic lose all stats.
 * Negated if player owns *The jan soweli…* card (28a).
@@ -310,7 +310,7 @@ flowchart TD
 * Player with most Discord/ activity time loses 50% of all stats.
 * If no one uses Discord, everyone loses 1% of all stats.
 
-### 41a⁻¹: Please Take a Shower Immediately
+### 41a⁻¹: [Please Take a Shower Immediately](https://knowyourmeme.com/photos/2301828-strange-duolingo-sentences)
 * Playable if *Grass* targets you.
 * Negates *Grass*.
 * Stats of the *Grass* player are transferred to you and doubled by the bank.
@@ -319,7 +319,7 @@ flowchart TD
 * Playable at any time.
 * Next player dies “because the card misspelt Abilities and forgot to use Grammarly.”
 
-### 42a⁻¹: Um Actually
+### 42a⁻¹: [Um Actually](https://knowyourmeme.com/memes/nerd-emoji)
 * Playable if *Abaties of Characters* targets you.
 * Negates *Abaties of Characters*.
 * Side effect: Other players may use the 🤓 emoji on you; you lose 1 γ-point per use.
@@ -342,7 +342,7 @@ flowchart TD
 * Playable at any time while a *Denied* card is active.
 * Lifts the denial of one *Denied* card.
 
-### 46a: generic swer wolf character
+### 46a: generic [swer](https://youtube.com/watch?v=XXfFGxCwNtQ) [wolf](https://www.reddit.com/r/youngpeopleyoutube/comments/1qg4iti/what/) character
 * Playable at any time.
 * Choose a player. That player dies when you die.
 
@@ -377,7 +377,7 @@ flowchart TD
 * You must declare one of two categories: "Stupidly Easy" or "How Do You Even Know This".
 * A question from the chosen category is then selected at random from a predetermined list.
 * All players present, including you and those whose rounds are skipped, must answer the question within 30 seconds.
-* Any player who answers correctly gains 5 γ-points. Any player who answers incorrectly loses 10 γ-points. Any player who submits a blank answer, an illegible answer, or the word "gerriver" loses 15 γ-points.
+* Any player who answers correctly gains 5 γ-points. Any player who answers incorrectly loses 10 γ-points. Any player who submits a blank answer, an illegible answer, or the word "ger river" loses 15 γ-points.
 
 #### 52a Sample Questions
 ##### Stupidly Easy
@@ -413,8 +413,8 @@ flowchart TD
 * If anyone wears glasses, they lose 1 γ-point.
 * If anyone confuses this with the *i-42a* card, they die.
 
-### 4t: You may not sleep now, there are monsters nearby:
-* If anyone sets down cards or rests/sleeps, they lose 50 γ-points.
+### 4t: [You may not sleep now](https://www.reddit.com/r/Minecraft/comments/9h0f7u/you_may_not_rest_there_are_monsters_nearby/), there are [monsters](https://www.youtube.com/watch?v=MobkO51msMI) nearby:
+* If anyone sets down cards or [rests/sleeps](https://www.youtube.com/watch?v=ZUUHX8P1dy4), they lose 50 γ-points.
 
 ---
 
@@ -428,7 +428,7 @@ flowchart TD
 ---
 
 ## Part II: Welcome to Game Theory
-The show that gets facts wrong about YOUR favourite conlang. Wait, wrong show.
+[The show that gets facts wrong about YOUR favourite conlang.](https://tvtropes.org/pmwiki/pmwiki.php/WebVideo/ConlangCritic) Wait, wrong show.
 
 ### Setting
 * Players divided into three groups (A, B, C) or two groups (A, B) depending on divisibility by three. Each group starts with 10 points.
@@ -475,12 +475,12 @@ Freely walk in this area:
 ### Goals
 | Goal | Description |
 |------|-------------|
-| ★ why | Do every single Work. |
+| ★ why | Do every single Wörk. |
 | ★ real I | Get 10 A, 15 B, 5 C, 15 D. |
 | ★ real II | Get 20 A, 10 B, 5 C, 8 D. |
-| ★ smart | Reach Level 4 in the first *The Bigger Picture* round. |
+| ★ [smort](https://www.urbandictionary.com/define.php?term=Smort) | Reach Level 4 in the first *The Bigger Picture* round. |
 | ★ Waist of Time | Get 25 A points. |
-| ★ We work to earn the right to work | Do the same Work 5 times. |
+| ★ [We work to earn the right to work](https://www.youtube.com/watch?v=vvANy49Kqhw) | Do the same Wörk 5 times. |
 | ★ monet I | Get 10 C points. |
 | ★ monet II | Get 40 C points. |
 
@@ -489,7 +489,7 @@ Freely walk in this area:
 ### Diabetes Land
 * Optional after achieving a goal.
 * Awarded sugar (mono-/disaccharides) based on goal difficulty.
-* No responsibility for side effects (e.g., OBCD, diabetes).
+* No responsibility for side effects (e.g., [OBCD](https://en.wikipedia.org/wiki/Obesity), diabetes).
 
 ### Leveling System and Exams
 * Start at random level 1–3 (max 4).
