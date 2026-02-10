@@ -28,8 +28,7 @@ from the *Become a Board Game Designer* programme.
 * Optionally a fursuit, preferably one of a fox.
 
 ## Basic Info
-* At least 12 players, recommended 21 players.
-  * The number of players should be divisible by 3.
+* At least 12 players, recommended 24 players.
   * Adjust the number of cards based on the amount of players.
 * Age rating: 100+.
   * This rule aims to provide this age group with a form of entertainment, as LEGO prohibits them from using their sets.
@@ -390,7 +389,7 @@ flowchart TD
 * Who was in Paris? Ensure your answer is inoffensive. Do not use the "clean" version as your answer.
 * Is P = NP?
 * Prove or disprove the Riemann hypothesis.
-* Come up with Ramanujan's approximation for pi using his methods. You are given a bed and a time limit of 1 hour. For this question, all trap cards are temporary null and void.
+* Come up with Ramanujan's approximation for pi using his methods. You are given a bed and a time limit of 1 hour. For this question, all trap cards are temporarily null and void.
 * Use ISO 843 transliteration on the full lyrics of "Hymn to Liberty" (the national anthem of Greece), disregarding spaces. Convert the result into Unicode codepoints (all in denary, assuming UTF+8). What is the sum of all the codepoints?
 * Who farted at exactly 3:01.22 AM GMT on 9 August 1945?
 
@@ -479,9 +478,9 @@ Freely walk in this area:
 | ★ real I | Get 10 A, 15 B, 5 C, 15 D. |
 | ★ real II | Get 20 A, 10 B, 5 C, 8 D. |
 | ★ [smort](https://www.urbandictionary.com/define.php?term=Smort) | Reach Level 4 in the first *The Bigger Picture* round. |
-| ★ Waist of Time | Get 25 A points. |
-| ★ [We work to earn the right to work](https://www.youtube.com/watch?v=vvANy49Kqhw) | Do the same Wörk 5 times. |
-| ★ monet I | Get 10 C points. |
+| ☆ Waist of Time | Get 25 A points. |
+| ☆ [We work to earn the right to work](https://www.youtube.com/watch?v=vvANy49Kqhw) | Do the same Wörk 5 times. |
+| ☆ monet I | Get 10 C points. |
 | ★ monet II | Get 40 C points. |
 
 ★ = harder, ☆ = easier.
