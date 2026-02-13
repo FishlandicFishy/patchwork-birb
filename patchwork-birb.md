@@ -125,7 +125,7 @@ flowchart TD
 ### 8c×2: Discipline Teacher
 * May be partially disabled if deemed offensive/unethical. If disabled, gain **500 γ-points** immediately.
 * You gain the right to scold the next player for **1 minute** for the worst possible reasons.
-* Gain 10 γ-points per utterance of: “Eyes on me,” “Attention please,” or “Absolute silence.”
+* Gain 10 γ-points per utterance of: “Eyes on me,” “Attention please,” “Absolute silence,” or similar.
 
 ### 9c×1: The *jan soweli* from idk some random tabletop game
 * Roll a `d6`:
@@ -560,8 +560,6 @@ Freely walk in this area:
 * If the time is exactly 12:00 a.m. or p.m., all players must run.
 * The slowest runner dies.
 
---
-
 ## patchworkBirb [or whatever it is?](https://sona.pona.la/wiki/jan_Misali#%22New_radio_shows?%22) [Show me the bibliography.](https://youtube.com/watch?v=9eu0GeZW1vk)
 >Like they say, show me the bibliography.
 - Sonja Lang
@@ -569,9 +567,10 @@ Freely walk in this area:
 [Okay kids, here's your Sigma Meal Skibidi Slicers.](https://grant-wisler-cinematic-universe.fandom.com/wiki/Sigma_Meal,_Skibidi_Slicers!)
 
 * <https://mzh.moegirl.org.cn/zh-hk/AI%E6%A2%97>
-  * 布織天上公雀, a mishearing of 不知天上宮闕 from 《水調歌頭》.
+  * 布織天上公雀, a mishearing of 不知天上宮闕 from 《水調歌頭》
 * *Become a Board Game Designer*, a programme organised by [Capstone Boardgame](https://shop.capstone.hk/)
   * [4c] They Say This Isn’t Balanced, but I Don't Care
+    * A card used to illustrate unbalanced gameplay
   * [7c] Polite *Ploice* Officer
   * No further details will be provided since doing so directly leaks my school and my real appearance
 * *Food Chain Kingdom*, a tabletop game designed during the *Become a Board Game Designer* programme
@@ -583,7 +582,7 @@ Freely walk in this area:
   * [41a] Grass
   * [45a] Denied ❌
   * [45a⁻¹] Approved ✅
-* *Struck by the 'Tism*, a tabletop game designed during the *Become a Board Game Designer* programme
+* *Struck by the 'Tism*<sup>[unofficial title]</sup>, a tabletop game designed during the *Become a Board Game Designer* programme
   * [9a] 收你八折
   * [10a] 收你五折
   * [42a] Abaties of Characters
@@ -591,11 +590,12 @@ Freely walk in this area:
 * *Escape School Obby No Clickbait*, a tabletop game designed during the *Become a Board Game Designer* programme
   * [32a] Ball Pen
   * [33a] Empty Room
-  * indirectly [34a] Vacuum
+    * indirectly [34a] Vacuum
   * [35a] Sofa
   * [36a] Store
   * [37a⁻¹] Trash
 * *Goblin (who can only say "Ni")*, a tabletop game designed during the *Become a Board Game Designer* programme
+  * Unsure if this is a reference to the [knights who say "Ni"](https://en.wikipedia.org/wiki/Knights_Who_Say_%22Ni!%22) (I am not well-versed in Monty Python).
   * [37a] Scavenger
   * [38a] Stand Up. Let’s Have a Greeting
   * [39a] *jan soweli* who is only 105 cm tall and can only say “ger river”
@@ -603,12 +603,12 @@ Freely walk in this area:
   * [2t] What’s the Time?
   * [3t] 🤓
   * [4t] You may not sleep now, there are monsters nearby
-* *Understanding Minorities and Refugees*, a programme organised by [not this ICE](https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement)
+* *Understanding Minorities and Refugees*, a programme organised by an ICE [not to be confused with the one in cahoots with Ring](https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement)
   * Directly inspired gambling points, the "metro station" card, and the melted chocolate
   * No further details will be provided since doing so directly leaks my school and my real appearance
 * >"Administrative Measures" will be taken. You can imagine what that means.
-  * From a talk about signing up for a service. It's so vague that no one knows what it means.
-* *Mario Party*
+  * From a talk about signing up for a service. It's so vague that not even the speaker knows what it means.
+* *Super Mario Party*
   * Directly inspired the α/β/γ-point system
 * *Sim Journey*, an activity organised by the Hong Kong Sheng Kung Hui Welfare Council
   * The Bigger Picture™ is directly plagiarised from this
