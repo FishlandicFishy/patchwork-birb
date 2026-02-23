@@ -466,7 +466,7 @@ Else:
 ### Setting
 Freely walk in this area:
 
-<img width="360" height="485" alt="Jobs: 2/3, Mailman, Janitor, Find, Gift, Airplane, ⿰王理工大學, programmer. graphic design, Carprark man, surgeon. Other areas: Exam and diabetes land, as well as the Main Game Area. There is no exit." src="https://github.com/user-attachments/assets/ab381634-658e-4e9f-821e-9f4329dc951a" />
+<img width="360" height="485" alt="Jobs: 2/3, Mailman, Janitor, Find, Gift, Airplane, ⿰王裡工大學, programmer. graphic design, Carprark man, surgeon. Other areas: Exam and diabetes land, as well as the Main Game Area. There is no exit." src="https://github.com/user-attachments/assets/ab381634-658e-4e9f-821e-9f4329dc951a" />
 
 ### Ability Points
 * Start with 18 ability points, distributable among four color-coded categories: A, B, C, D.
@@ -541,7 +541,7 @@ Freely walk in this area:
 | Carprark man <img width="125" height="78" alt="Shroff office at carprark" src="https://github.com/user-attachments/assets/83f5fba8-08e8-412a-9bd4-f79363b1c834" /> | tidy up toy cars, especially if you are Holy Number 6 | 1 | 1,1,2,0 | 0,0,-1,2 |
 | find | find waldo | 1 | 0,0,0,0 | 6,0,1,0 |
 | 2/3 | [this](https://en.m.wikipedia.org/wiki/Three-legged_race) | 1 | 0,0,2,5 | 2,6,-2,-5 |
-| [⿰王理工大學](https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/1060488/%E7%90%86%E5%A4%A7%E5%AE%A3%E5%82%B3%E6%A9%AB%E5%B9%85%E8%98%87%E8%BB%BE%E5%90%8D%E5%8F%A5-%E5%8D%83%E9%87%8C%E5%85%B1%E5%AC%8B%E5%A8%9F-%E8%AE%8A-%E5%8D%83%E8%A3%A1-%E6%83%B9%E7%86%B1%E8%AD%B0%E5%BE%8C%E5%B7%B2%E6%8B%86%E9%99%A4) | find typos | 2 | 6,1,1,0 | 2,0,-1,3 |
+| [⿰王裡工大學](https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/1060488/%E7%90%86%E5%A4%A7%E5%AE%A3%E5%82%B3%E6%A9%AB%E5%B9%85%E8%98%87%E8%BB%BE%E5%90%8D%E5%8F%A5-%E5%8D%83%E9%87%8C%E5%85%B1%E5%AC%8B%E5%A8%9F-%E8%AE%8A-%E5%8D%83%E8%A3%A1-%E6%83%B9%E7%86%B1%E8%AD%B0%E5%BE%8C%E5%B7%B2%E6%8B%86%E9%99%A4) | find typos | 2 | 6,1,1,0 | 2,0,-1,3 |
 | [airplane](https://www.youtube.com/watch?v=S6ff6_beeHY) | jump and stick memos | 2 | 3,0,3,0 | 2,0,-3,5 |
 | [graphic design](https://www.reddit.com/r/DesignPorn/comments/a0fb98/beautiful_example_of_design/) | write your name in calligraphy | 3 | 2,0,1,0 | 1,0,-1,3 |
 | programmer | do intense math | 3 | 3,1,1,0 | 2,0,–1,5 |
