@@ -574,12 +574,13 @@ Freely walk in this area:
   * [7c] Polite *Ploice* Officer
   * No further details will be provided since doing so directly leaks my school and my real appearance
 * *Food Chain Kingdom*, a tabletop game designed during the *Become a Board Game Designer* programme
+  * [40a] Lion
+  * [41a] Grass
+* Another tabletop game about animals (title lost), designed during the *Become a Board Game Designer* programme
   * [3a] Rabbit
   * [29a] Cat
   * [30a] Dog
   * [31a] Wolf
-  * [40a] Lion
-  * [41a] Grass
   * [45a] Denied ❌
   * [45a⁻¹] Approved ✅
 * *Struck by the 'Tism*<sup>[unofficial title]</sup>, a tabletop game designed during the *Become a Board Game Designer* programme
