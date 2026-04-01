@@ -70,7 +70,6 @@ The game has directly influenced the card "*jan soweli* who is only 105 cm tal
 * Grass
   * Permanently borrowed as Grass (41a)
 * Frog
-* Some sort of arthopod
 * Snake
 * Fox
 * Lion
