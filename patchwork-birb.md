@@ -36,6 +36,7 @@ from the *Become a Board Game Designer* programme.
 * Without Fishy's prior permission, it is unacceptable to simulate the entire game digitally,
   as it violates our intellectual property. DRM software collectively named "Administrative Measures"
   will be taken to ensure compliance. You can imagine what that means. /s
+  * And so I permit any usage of `patchworkBirb`, including digital simulations.
 
 ## Plot (irrelevant to game)
 Man is Mary’s rival.
