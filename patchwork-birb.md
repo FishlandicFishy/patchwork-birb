@@ -92,10 +92,10 @@ A visualisation is as follows:
 * Points received:
 ```mermaid
 flowchart TD
-    C{Today's date}
-    C -->|2 or 22 February and NOT 2/2/2022| D[2e22 β-points]
-    C -->|2/2/2022| E[ee222 β-points]
-    C -->|Other dates| F[22 α-points]
+    C[/Today's date/]
+    C -->D{2 or 22 February and NOT 2/2/2022?} --> E[2e22 β-points]
+    C -->F{2/2/2022?} --> G[ee222 β-points]
+    C -->H{Other dates?} --> I[22 α-points]
 ```
 
 ### 3c×6: I'm In My Detective Era Now
