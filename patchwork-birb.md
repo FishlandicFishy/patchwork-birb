@@ -196,8 +196,9 @@ flowchart TD
 ### 8a: Black Dice
 * Must be played once obtained.
 * Requires [*Black Knife (from Deltarune)*](https://www.youtube.com/watch?v=B8Us0DZgexw) to also be played.
-* Kill one adjacent player. [Negated if target has a fursona with antlers](https://knowyourmeme.com/memes/asgore-running-over-dess).
+* Kill one adjacent player. [Negated if target has a fursona resembling a cervid or a fursona with antlers](https://knowyourmeme.com/memes/asgore-running-over-dess).
 * If both adjacent players are dead, you die.
+* Any players with sonas resembling goats, fish, televisions, or flowers must skip 2 rounds. Negated if their cervid fursonas (if any) are more prominent than the aforementioned sonas.
 
 ### 9a: 收你八折
 * Playable when a negative effect targets you.
