@@ -27,6 +27,18 @@ from the *Become a Board Game Designer* programme.
   * Printers requiring magenta ink are NOT recommended.
 * Optionally a fursuit, preferably one of a fox.
 
+### Regarding "Standard" Editions
+
+A "standard" edition of `patchworkBirb` is defined as a purchasable "blind box" containing one of each type of card. These boxes are considered collectibles ~~on par with "Ancient Egypt" "IP" "blind boxes".~~
+
+Any functioning "standard" game of `patchworkBirb` must constitute multiple purchases of the same box.
+
+While gameplay utilising "non-standard" copies remains acceptable, they are not officially endorsed.
+
+Prospective distributors of "standard" `patchworkBirb` copies, you have been warned.
+
+*(This section is /s.)*
+
 ## Basic Info
 * At least 12 players, recommended 24 players.
   * Adjust the number of cards based on the amount of players.
@@ -375,7 +387,7 @@ flowchart TD
 ### 52a: The Inquisition
 * Nobody expects the patchworkBirb inquisition. Maybe.
 * Playable on your round.
-* You must declare one of two categories: "Stupidly Easy" or "How Do You Even Know This".
+* You must declare one of three categories: "Stupidly Easy", "Stupid", or "How Do You Even Know This".
 * A question from the chosen category is then selected at random from a predetermined list.
 * All players present, including you and those whose rounds are skipped, must answer the question within 30 seconds.
 * Any player who answers correctly gains 5 γ-points. Any player who answers incorrectly loses 10 γ-points. Any player who submits a blank answer, an illegible answer, or the word "ger river" loses 15 γ-points.
@@ -386,6 +398,9 @@ flowchart TD
 * To avoid being scammed, should you take the advice of a scammer?
 * What is the powerhouse of the cell?
 * For all real numbers x, is x^2 = x^2?
+
+##### Stupid
+* A is [something random], B is [something random], and C is [something random]. What is D?
 
 ##### How Do You Even Know This
 * Who was in Paris? Ensure your answer is inoffensive. Do not use the "clean" version as your answer.
