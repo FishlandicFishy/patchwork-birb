@@ -37,6 +37,8 @@ While gameplay utilising "non-standard" copies remains acceptable, they are not 
 
 Prospective distributors of "standard" `patchworkBirb` copies, you have been warned.
 
+!["You have been warned." (actual image from a Unicode document btw)](https://github.com/user-attachments/assets/902a7a6f-b77b-40d8-81cd-e6db1d3b7fb6)
+
 *(This section is /s.)*
 
 ## Basic Info
