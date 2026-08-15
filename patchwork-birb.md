@@ -33,11 +33,13 @@ A "standard" edition of `patchworkBirb` is defined as a purchasable "blind box" 
 
 Any functioning "standard" game of `patchworkBirb` must constitute multiple purchases of the same box.
 
-While gameplay utilising "non-standard" copies remains acceptable, they are not officially endorsed.
+While gameplay utilising "non-standard" copies remains acceptable, this is not officially endorsed.
 
 Prospective distributors of "standard" `patchworkBirb` copies, you have been warned.
 
-!["You have been warned." (actual image from a Unicode document btw)](https://github.com/user-attachments/assets/902a7a6f-b77b-40d8-81cd-e6db1d3b7fb6)
+![You have been warned.](https://github.com/user-attachments/assets/902a7a6f-b77b-40d8-81cd-e6db1d3b7fb6)
+
+(the above is an actual image from a Unicode IRG document btw)
 
 *(This section is /s.)*
 
@@ -401,8 +403,14 @@ flowchart TD
 * What is the powerhouse of the cell?
 * For all real numbers x, is x^2 = x^2?
 
-##### Stupid
+##### Stupid (from *Black Magic*, a genre of games)
 * A is [something random], B is [something random], and C is [something random]. What is D?
+* Open, close, open, close. Open or close?
+* Uphill, downhill, uphill, downhill. Uphill or downhill?
+* You are given a pen and a piece of paper. Draw a visually appealing star as per *Black Magic* guidelines.
+* A train goes to Fanling but not Diamond Hill, amd Ginza but not Shibuya. Name five locations the train would stop at.
+* Define Yau's addition operator (⿽十邱).
+* How many Instagram users are there? (this one is from a PolyU quiz, not *Black Magic*)
 
 ##### How Do You Even Know This
 * Who was in Paris? Ensure your answer is inoffensive. Do not use the "clean" version as your answer.
