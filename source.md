@@ -122,7 +122,7 @@ The creators' frequent mispronunciation of "abilities" as "abaties" has inspired
 ### Cards
 * Pokédex ID #0143
 * Pokédex ID #0663
-* I'm not well-versed in Pokémon so idk who this is
+* Pokédex ID #0830
 * Pokédex ID #0006
 * Pokédex ID #0025
 * 收你八折
