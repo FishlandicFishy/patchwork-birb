@@ -7,7 +7,7 @@ This document serves to summarise the gameplay of a portion of works inspiring `
 Fishy does NOT own any of the works below, except for *Struck by the 'Tism* which Fishy only partially owns.
 
 ## *Escape School Obby No Clickbait*
-*Escape School Obby No Clickbait* is a survival-based tabletop game debuted in the *Become a Board Game Designer* programme. Its main objective is to escape a school environment as quickly as possible, with five students trapped in the school.
+*Escape School Obby No Clickbait* is a survival-based tabletop game debuted in the *Become a Board Game Designer* programme. Its main objective is to escape a school environment as quickly as possible (by reaching the "Exit" card with a key) with five students trapped in the school.
 
 It is described as a competitive game with turn-based movement, where the fastest to escape wins. "Events" may happen.
 
