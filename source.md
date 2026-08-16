@@ -203,7 +203,7 @@ The creators' frequent mispronunciation of "abilities" as "abaties" has inspired
 * 被劣
   * Permanently borrowed as 被劣 (47a)
 
-### Board (anticlockwise from start)
+### Board (clockwise from start)
 (\*: All arithmetic cards were permanently borrowed as 11a to 27a.)
 
 1. Start
