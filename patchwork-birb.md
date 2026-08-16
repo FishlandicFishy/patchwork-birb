@@ -74,7 +74,7 @@ The winner is deduced by the method below. This also applies to dead players.
 4. Rock-paper-scissor out the issue if α-points are equivalent,
    use the best-two-of-three basis to ensure maximum randomness
 5. If two or more people still tie, sort it out by the one who has a higher age (by birthday, not by fixed age)
-   (correct to the nearest Planck time, 5.39 × 10^(−44) s)
+   (correct to the nearest Planck time, 5.39 × 10<sup>-44</sup> s)
 7. If two or more people are the same age, sort it out by the one who had most recently drank water
 8. If two or more people had drank water at the same time, use RNG
 
@@ -136,7 +136,7 @@ flowchart TD
  * *Example (bare minimum):* `往羅湖的列車即將到達。前往罗湖的列车即將到达。The train to Lo Wu is arriving.`
 3. Additional animal cards are added to the deck.
 4. When two identical animal cards appear, players race to slap both while shouting its full name.
- * Winner receives **18,446,744,073,709,551,616 (2^64) γ-points**.
+ * Winner receives **18,446,744,073,709,551,616 (2<sup>64</sup>) γ-points**.
  * If no one remembers the name, shuffle the animal cards and restart.
 
 ### 8c×2: Discipline Teacher
@@ -236,7 +236,7 @@ flowchart TD
 * Playable at any time.
 * Squares any one hierarchy.
 
-### 23a: ^^² Card
+### 23a: ^^2 Card
 * Playable at any time.
 * Tetrates any one hierarchy by 2.
 
@@ -401,7 +401,7 @@ flowchart TD
 * What is the sum of the multiplicative identity and the only even prime number?
 * To avoid being scammed, should you take the advice of a scammer?
 * What is the powerhouse of the cell?
-* For all real numbers x, is x^2 = x^2?
+* For all real numbers x, is x² = x²?
 
 ##### Stupid (from *Black Magic*, a genre of games)
 * A is [something random], B is [something random], and C is [something random]. What is D?
