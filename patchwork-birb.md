@@ -17,11 +17,11 @@ from the *Become a Board Game Designer* programme.
   with the below software installed or readily available:
   * Any text editor.
   * A random number generator.
-* A full collection of dice from d1 to d100, with at least one each.
+* A full collection of dice from d1 to d100 with at least one each.
 * A digital camera that captures in at least 4K resolution, at a rate of at least 2048 FPS.
 * A tabletop game designing kit with its full set of cards.
 * A few tables and partitions.
-* A substantial amount of paper.
+* A substantial amount of pens and sheets of paper.
 * A working printer deemed as non-scam, as a substantial amount of documents is to be scanned.
   * HP printers are NOT recommended.
   * Printers requiring magenta ink are NOT recommended.
@@ -83,7 +83,7 @@ The winner is deduced by the method below. This also applies to dead players.
   each player should have exactly 1 character card.
 * Every round, when it is a player's turn, they must draw a card so they have
   two cards to choose from. They then have to play one of the two cards on the *ma pi jaki anpa*.
-* After all turns are over, the game switches to Part II, then to The Bigger Picture™,
+* After ten rounds in Part I, the game switches to Part II, then to The Bigger Picture™,
   where a time limit of 30 minutes is set for each The Bigger Picture round.
 * After Part III, a round of Obvious Furbait is conducted before going back to Part I.
 
@@ -132,7 +132,7 @@ flowchart TD
 
 ### 7c×(players-1): Polite *Ploice* Officer
 1. A random animal card (chicken, cow, sheep, pig, owl, or ant) appears on the deck.
-2. You must name the animal. The name must be absurdly long, contain at least two languages, and have no upper limit.
+2. You must name the animal. The name must be absurdly long and contain at least two languages. There is no upper limit on its length.
  * *Example (bare minimum):* `往羅湖的列車即將到達。前往罗湖的列车即將到达。The train to Lo Wu is arriving.`
 3. Additional animal cards are added to the deck.
 4. When two identical animal cards appear, players race to slap both while shouting its full name.
@@ -145,9 +145,9 @@ flowchart TD
 * Gain 10 γ-points per utterance of: “Eyes on me,” “Attention please,” “Absolute silence,” or similar.
 
 ### 9c×1: The *jan soweli* from idk some random tabletop game
-* Roll a `d6`:
+* Roll a `d6`; let the result be *n*.
   * You gain 1 γ-point.
-  * All other players lose the die result in γ-points.
+  * All other players lose *n* γ-points.
   * Effect is negated for any player holding a *The jan soweli from Schatz der Dr\*chen* card.
 
 ### 10c×2: [smonk](https://surrealmemes.fandom.com/wiki/Smonk)
@@ -175,7 +175,7 @@ flowchart TD
 
 ### 2a: Pray for Peace and Prosperity
 * Playable at any time.
-* All your stats are ×10.
+* All your stats are multiplied by 10.
 * Side effect: Other players may use the 🤓 emoji on you; you lose 1 γ-point per use.
 
 ### 3a: Rabbit
@@ -266,6 +266,7 @@ flowchart TD
 * Must be played once obtained.
 * Gain 15 γ-points, then card remains in inventory.
 * Cannot coexist with *Dog*; if both are held, both are returned and all hierarchies reset (unless you hold *The jan soweli…* card (28a)).
+* You **die** if you are aware of the *Lost Deltarune* fangame. Negated if you hold *The jan soweli…* (28a).
 
 ### 30a: Dog
 * Must be played once obtained.
@@ -276,7 +277,7 @@ flowchart TD
 ### 31a: Wolf
 * Remains in inventory once obtained.
 * Continuously removes any *Dog* from your inventory (source: my dumb classmates’ logic).
-* Exception: Negated if you hold *The jan soweli…* card (28a).
+* Negated if you hold *The jan soweli…* card (28a).
 
 ### 32a: Ball Pen
 * Playable at any time.
@@ -405,11 +406,17 @@ flowchart TD
 
 ##### Stupid (from *Black Magic*, a genre of games)
 * A is [something random], B is [something random], and C is [something random]. What is D?
+  * answer must include "D is…"
 * Open, close, open, close. Open or close?
+  * if mouth is open, "open"; else, "close"
 * Uphill, downhill, uphill, downhill. Uphill or downhill?
+  * if palm faces up, "downhill"; else, "uphill"
 * You are given a pen and a piece of paper. Draw a visually appealing star as per *Black Magic* guidelines.
+  * guidelines dictate that the only way it could be deemed "visually appealing" is if you bootlick™
 * A train goes to Fanling but not Diamond Hill, amd Ginza but not Shibuya. Name five locations the train would stop at.
+  * (any location with the name of a colour, even non-station names)
 * Define Yau's addition operator (⿽十邱).
+  * a binary operator evaluating the sums of lengths of English names for each number.
 * How many Instagram users are there? (this one is from a PolyU quiz, not *Black Magic*)
 
 ##### How Do You Even Know This
